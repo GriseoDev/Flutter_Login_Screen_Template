@@ -1,5 +1,7 @@
 # Flutter Login Screen Template
 
+## Free preview – full UI kit on Gumroad
+
 Clean and responsive login screen template built with **Flutter** and **Material 3**.
 
 Designed for **MVPs**, **prototypes**, and quick project setups where you need a solid authentication UI without backend logic.
