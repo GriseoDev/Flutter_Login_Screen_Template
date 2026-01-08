@@ -6,6 +6,9 @@ Clean and responsive login screen template built with **Flutter** and **Material
 
 Designed for **MVPs**, **prototypes**, and quick project setups where you need a solid authentication UI without backend logic.
 
+Full template available on Gumroad:  
+👉 https://griseo.gumroad.com/l/dev-flutter-login-template
+
 ---
 
 ## ✨ Features
